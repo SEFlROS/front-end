@@ -54,7 +54,10 @@ export default function Home() {
           </a>
         </div>
       <Button>Meu botão shadcd</Button>
+      
       <Calendar />
+
+      <Button>Botão abaixo do calendário</Button>
       
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
