@@ -1,9 +1,2 @@
-# front-end
-
-Projeto desenvolvido em Next.js.
-
-## 🚀 Como rodar o projeto
-
-Instale as dependências:
-bash
-npm install
+## Testes E2E
+Cypress instalado e configurado para testes end-to-end.
